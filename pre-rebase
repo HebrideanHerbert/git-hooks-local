@@ -1,0 +1,3 @@
+#!/bin/sh
+echo Rebasing is disabled for this Repository
+exit 1
